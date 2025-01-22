@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+table,th,td
+{
+	border:solid;
+}
+th{
+	text-align:left;
+	
+}
+#t2,#t3,#t4,#t5,#t6
+{
+   text-align:right;
+}
